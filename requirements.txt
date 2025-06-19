@@ -1,0 +1,7 @@
+streamlit
+scikit-fuzzy
+xgboost
+shap
+pandas
+numpy
+matplotlib
